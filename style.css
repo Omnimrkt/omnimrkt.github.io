@@ -51,6 +51,10 @@ p {
   font-weight: bold;
 }
 
+.logo {
+  height: 40px;
+}
+
 /* HERO */
 
 .hero {
