@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#003A5D" stroke-width="32"/>
+  
+  <!-- Bars -->
+  <rect x="150" y="280" width="50" height="140" rx="8" fill="#003A5D"/>
+  <rect x="225" y="240" width="50" height="180" rx="8" fill="#003A5D"/>
+  <rect x="300" y="200" width="50" height="220" rx="8" fill="#003A5D"/>
+  <rect x="375" y="160" width="50" height="260" rx="8" fill="#003A5D"/>
+
+  <!-- Light overlays -->
+  <path d="M150 350 L200 320 L200 420 L150 420 Z" fill="#00AFCB" opacity="0.85"/>
+  <path d="M225 300 L275 260 L275 420 L225 420 Z" fill="#00AFCB" opacity="0.85"/>
+  <path d="M300 260 L350 210 L350 420 L300 420 Z" fill="#00AFCB" opacity="0.85"/>
+  <path d="M375 220 L425 170 L425 420 L375 420 Z" fill="#00AFCB" opacity="0.85"/>
+
+  <!-- Text -->
+  <text x="256" y="490" text-anchor="middle" font-family="Inter, sans-serif"
+        font-size="72" font-weight="600" fill="#003A5D">
+    OMNI<tspan fill="#00AFCB">.Marketing</tspan>
+  </text>
+</svg>
